@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="frame_text">Покадровая анимация</string>
+    <string name="tween_text">Анимация преобразований</string>
+    <string name="back">Назад</string>
+    <string name="tween_anim_start">Запустить анимацию</string>
+</resources>
